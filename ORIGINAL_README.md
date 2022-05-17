@@ -1,6 +1,7 @@
-AFFECTIVE TEXT 
+# AFFECTIVE TEXT 
+_This file contains the original README from Semeval 2007 Task 14_
 
-Semeval 2007 task
+Semeval 2007 task  
 Carlo Strapparava, Rada Mihalcea
 
 
